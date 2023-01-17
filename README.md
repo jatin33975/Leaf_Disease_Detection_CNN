@@ -1,7 +1,7 @@
 # leaf_disease_detection
 Objectives
-we have attended consists in training a model using images of the training dataset to
 
+we have attended consists in training a model using images of the training dataset to
 * accurately classify a given image from testing dataset into different diseased category or a healthy leaf;
 * accurately distinguish between many diseases, sometimes more than one on a single leaf;
 * deal with rare classes and novel symptoms;
