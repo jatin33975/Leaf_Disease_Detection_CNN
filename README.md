@@ -1,1 +1,2 @@
-# Leaf_Disease_Detection_CNN
+# leaf_disease_detection
+LINK TO DATASET-https://www.kaggle.com/emmarex/plantdisease
